@@ -1,11 +1,11 @@
 Hi there. I'm a software engineer that specializes in backend systems, devops, infrastructure, and sometimes iOS development.
 
-## contact
+###### contact
 
 * [email](mailto:natefanaro@gmail.com)
 * [keybase](https://keybase.io/natefanaro)
 
-## where i have been
+###### where i have been
 
 * [torch.io](https://torch.io)
 * [acv auctions](https://acvauctions.com)
