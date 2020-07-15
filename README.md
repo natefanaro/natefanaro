@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi there. I'm a software engineer that specializes in backend systems, devops, infrastructure, and sometimes iOS development.
 
-<!--
-**natefanaro/natefanaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## contact
 
-Here are some ideas to get you started:
+* [email](mailto:natefanaro@gmail.com)
+* [keybase](https://keybase.io/natefanaro)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## where i have been
+
+* [torch.io](https://torch.io)
+* [acv auctions](https://acvauctions.com)
+* [clarityad](https://clarityad.com)
+* [synacor](https://synacor.com)
+* [localnet](https://localnet.com)
+* [apple](https://apple.com)
+* [client logic](https://www.linkedin.com/company/clientlogic/)
