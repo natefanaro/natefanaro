@@ -1,4 +1,4 @@
-Hi there. I'm a software engineer that specializes in backend systems, devops, infrastructure, and sometimes iOS development.
+Hi there.
 
 ###### contact
 
