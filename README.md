@@ -20,5 +20,6 @@
 ###### :bird: bots
 
 * [@AllTriviaBot](http://twitter.com/AllTriviaBot)
-* [@capscop](http://twitter.com/capscop)
-* [@fandumb](http://twitter.com/fandumb)
+* [@CapsCop](http://twitter.com/capscop)
+* [@FanDumb](http://twitter.com/fandumb)
+* [@RealDonaldCats](http://twitter.com/RealDonaldCats)
