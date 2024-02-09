@@ -1,5 +1,3 @@
-"Good with computers"
-
 ##### contact
 
 * [email](mailto:natefanaro+thisisspam@gmail.com)
