@@ -15,9 +15,8 @@
 * [learn_docker](https://github.com/natefanaro/learn_docker)
 * [learn_terraform](https://github.com/natefanaro/learn_terraform)
 
-###### :bird: bots
-
-* [@AllTriviaBot](http://twitter.com/AllTriviaBot)
-* [@CapsCop](http://twitter.com/capscop)
-* [@FanDumb](http://twitter.com/fandumb)
-* [@RealDonaldCats](http://twitter.com/RealDonaldCats)
+[//]: # (really old twitter bots)
+[//]: # (http://twitter.com/AllTriviaBot)
+[//]: # (http://twitter.com/capscop)
+[//]: # (http://twitter.com/fandumb)
+[//]: # (http://twitter.com/RealDonaldCats)
